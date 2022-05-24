@@ -1,0 +1,15 @@
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.exe
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.deps.json
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.runtimeconfig.json
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.dll
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\bin\Debug\net6.0\rockpaperscissors.pdb
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.csproj.AssemblyReference.cache
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.AssemblyInfoInputs.cache
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.AssemblyInfo.cs
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.dll
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\obj\Debug\net6.0\refint\rockpaperscissors.dll
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.pdb
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\obj\Debug\net6.0\rockpaperscissors.genruntimeconfig.cache
+C:\Users\emgus\source\codeworks\week10\rockpaperscissors\obj\Debug\net6.0\ref\rockpaperscissors.dll
